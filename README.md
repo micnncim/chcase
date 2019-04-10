@@ -29,6 +29,15 @@ GLOBAL OPTIONS:
    --version, -v  print the version
 ```
 
+## Example
+
+```
+$ chcase c foo_bar_baz
+FooBarBaz
+$ chcase k FooBarBaz
+foo-bar-baz
+```
+
 ## LICENSE
 
 [MIT](./LICENSE)
