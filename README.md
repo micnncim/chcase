@@ -2,6 +2,18 @@
 
 CLI changing string cases
 
+## Installation
+
+```
+$ brew tap micnncim/chcase
+```
+
+or
+
+```
+$ go get github.com/micnncim/chcase
+```
+
 ## Usage
 
 ```
