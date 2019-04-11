@@ -19,3 +19,16 @@ changelog:
     exclude:
     - '^docs:'
     - '^test:'
+brew:
+  github:
+    owner: micnncim
+    name: homebrew-chcase
+  commit_author:
+    name: goreleaserbot
+    email: goreleaser@carlosbecker.com
+  description: "chcase: CLI changing string cases"
+  homepage: "https://github.com/micnncim/chcase"
+  install: |
+    bin.install "chcase"
+  test: |
+    system "#{bin}/chcase"
