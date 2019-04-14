@@ -23,6 +23,7 @@ brew:
   github:
     owner: micnncim
     name: homebrew-tap
+  folder: Formula
   description: "chcase: CLI changing string cases"
   homepage: "https://github.com/micnncim/chcase"
   install: |
