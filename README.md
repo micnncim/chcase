@@ -5,7 +5,7 @@ CLI changing string cases
 ## Installation
 
 ```
-$ brew install micnncim/chcase/chcase
+$ brew install micnncim/tap/chcase
 ```
 
 or

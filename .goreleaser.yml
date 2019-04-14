@@ -22,10 +22,7 @@ changelog:
 brew:
   github:
     owner: micnncim
-    name: homebrew-chcase
-  commit_author:
-    name: goreleaserbot
-    email: goreleaser@carlosbecker.com
+    name: homebrew-tap
   description: "chcase: CLI changing string cases"
   homepage: "https://github.com/micnncim/chcase"
   install: |
